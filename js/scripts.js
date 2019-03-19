@@ -1,6 +1,12 @@
 $(document).ready(function() {
 
 	"use strict";
+	// coutndown time
+	// 
+	// 	function countdownTimer() {
+	// 			setTimeout(function(){ confirm("Do you want to continue chatting?"); }, 3000);
+	// 		}
+	// window.onload = countdownTimer;
 
 	// Variables
 
